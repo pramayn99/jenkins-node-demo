@@ -1,0 +1,26 @@
+{
+  "name": "jenkins-node-demo",
+  "version": "1.0.0",
+  "description": "CI/CD using Jenkins wit a simple Node App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pramayn99/jenkins-node-demo.git"
+  },
+  "author": "Pramay Nikhade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pramayn99/jenkins-node-demo/issues"
+  },
+  "homepage": "https://github.com/pramayn99/jenkins-node-demo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.0",
+    "supertest": "^4.0.2"
+  }
+}
